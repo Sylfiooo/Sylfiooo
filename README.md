@@ -1,4 +1,6 @@
-### Hi there 👋, Welcome !
+# Hi there 👋, Welcome !
+
+## About me 👨‍🎓
 
 Hey ! My name is Alexis, but you can call me **Sylfio**.
 
