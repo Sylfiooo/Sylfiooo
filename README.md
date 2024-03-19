@@ -15,6 +15,12 @@ A few things to know about me :
 * ☕ Sorry Microsoft worshipers, but here we prefer **Java** to C#
 * 🆕 Always ready to **test new things** and improve in different areas of IT !
 
+## Interesting projects I worked on
+
+### Nuit de l'info 2019 : [Increasing the power to act of students in precarious situations](https://www.nuitdelinfo.com/materiel_communication/2019/La_Nuit_de_l_Info_2019-Sujet.pdf)(🇫🇷) 🥇
+
+La **Nuit de l'Info** is a French **team web development competition** taking place every year, in which **thousands of students** participate, from **baccalaureate to engineers**. An overall topic is defined by the organization **when the sun goes down**, and a web application must be delivered by **sunrise**.
+Having participated in the first year of higher studies with a team of 11 people (named **Dream Team**) from the same year of my course, I was able to set up a web server for the first time and develop a site which allowed us to win **first place** in the competition ! The ordeal was very educational for people new to the IT world like us.
 
 <!--
 **Sylfiooo/Sylfiooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
