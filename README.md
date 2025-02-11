@@ -6,8 +6,8 @@ Hey ! My name is Alexis, but you can call me **Sylfio**.
 
 I am a french developer from Lyon. (French touch, yeah !) 
 
-Currently at the end of my computer engineering course at **CPE Lyon**, I am looking for a **thesis subject** for the coming years, in the field of **AI** and **behavioral simulation in a controlled environment**. Don't hesitate if you have any leads, **I'm interested !** 🙋‍♂️
-
+Having completed my IT engineering studies at **CPE Lyon**, I'm now a “Software Design and Development Engineer” at Thales. I am curious about **thesis topics** in the field of **AI** and **behavioral simulation in a controlled environment**, **education**, and **medical/biological field**. If you have any insights or know of interesting projects, **feel free to share!** 🙋‍♂️
+ 
 A few things to know about me :
 * 🎲 I'm a fan of **tabletop role-playing games** (and **board games** too)
 * ✍️ I love **discovering new stories** through recent media *(cinemas, video games, music, etc...)*
